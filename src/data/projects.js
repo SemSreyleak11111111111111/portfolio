@@ -18,10 +18,15 @@ export const projectCategories = [
         category: "Food Menu",
         image: "https://i.pinimg.com/736x/cc/5a/6c/cc5a6c68330fef708b8c4bbd7bf43e6d.jpg",
       },
-       {
+      {
         title: "Healthy Salad",
         category: "Food Menu",
         image: "https://i.pinimg.com/1200x/cd/46/71/cd4671aa10a2ac3af45d3a8e9803d97d.jpg",
+      },
+        {
+        title: "Healthy Salad",
+        category: "Food Menu",
+        image: "https://i.pinimg.com/736x/d3/2a/36/d32a36ca44e21d2e1d0eaa1f083d3750.jpg",
       },
       // Add more of your own food posters here...
     ],
@@ -44,15 +49,25 @@ export const projectCategories = [
         category: "Tropical Drink",
         image: "https://i.pinimg.com/736x/00/eb/e3/00ebe34b6bf335dd95c4877fc08ed29a.jpg",
       },
-       {
+      {
         title: "Piña Colada",
         category: "Tropical Drink",
         image: "https://i.pinimg.com/736x/27/40/14/2740144ca7fd7ef974139db0edf5acc1.jpg",
       },
-       {
+      {
         title: "Piña Colada",
         category: "Tropical Drink",
         image: "https://i.pinimg.com/736x/13/5c/ca/135cca2c2bd8f37dc063dfff29fb6e4a.jpg",
+      },
+      {
+        title: "Piña Colada",
+        category: "Tropical Drink",
+        image: "https://i.pinimg.com/1200x/8e/ed/78/8eed7842185fdc5b22628da263697a86.jpg",
+      },
+       {
+        title: "Piña Colada",
+        category: "Tropical Drink",
+        image: "https://i.pinimg.com/736x/d2/da/ec/d2daec2cd42684ef0ba1d7ed5841f759.jpg",
       },
       // Add your drink posters...
     ],
@@ -65,18 +80,18 @@ export const projectCategories = [
         category: "Sneaker Collection",
         image: "https://i.pinimg.com/736x/d1/ca/47/d1ca471746b44f972d41ef8ff4b1083e.jpg",
       },
-     
-       {
+
+      {
         title: " Air Jordan",
         category: "Streetwear Poster",
         image: "https://i.pinimg.com/1200x/f8/fd/fd/f8fdfd1dcba32e77df4078a284fc936d.jpg",
       },
-       {
+      {
         title: " Air Jordan",
         category: "Streetwear Poster",
         image: "https://i.pinimg.com/736x/98/8e/3b/988e3bafb148ade368049c144a9a5169.jpg",
       },
-       {
+      {
         title: " Air Jordan",
         category: "Streetwear Poster",
         image: "https://i.pinimg.com/736x/0f/53/3c/0f533c0b44441bc13bcfb1bef4c67e37.jpg",
@@ -102,7 +117,7 @@ export const projectCategories = [
         category: "Orange with horney",
         image: "https://i.pinimg.com/736x/e1/c6/66/e1c666b350ea13d94a36fc038526a144.jpg",
       },
-       {
+      {
         title: "Facefoam",
         category: "Orange with horney",
         image: "https://i.pinimg.com/736x/96/be/af/96beafdc70f36df3cae4d75d98dec425.jpg",
@@ -136,4 +151,41 @@ export const projectCategories = [
       // Add your car posters...
     ],
   },
+  // {
+  //   title: "Festival",
+  //   items: [
+  //     {
+  //       title: "Can Mock Up",
+  //       category: "Youtube tutorial",
+  //       image: "https://i.pinimg.com/736x/c1/05/eb/c105ebc2fb7e2724bf3314a623e897f5.jpg",
+  //     },
+  //     {
+  //       title: "Valentine's Day",
+  //       category: "Best cleancing",
+  //       image: "https://i.pinimg.com/736x/b2/f7/b5/b2f7b5f8db4381d390654a00d1b4cee3.jpg",
+  //     },
+  //     {
+  //       title: "Facefoam",
+  //       category: "Orange with horney",
+  //       image: "https://i.pinimg.com/736x/0c/dd/d0/0cddd0d45b65e6a58ebef4f71aaeb854.jpg",
+  //     },
+  //     {
+  //       title: "Facefoam",
+  //       category: "Orange with horney",
+  //       image: "https://i.pinimg.com/736x/bb/10/09/bb10093924684e9051449d1317b132d6.jpg",
+  //     },
+  //     {
+  //       title: "Khmer New Year",
+  //       category: "NPIC",
+  //       image: "/npickhmernewyear1.png",
+
+  //     },
+  //      {
+  //       title: "Chinese New year",
+  //       category: "Lucky wishing",
+  //       image: "https://i.pinimg.com/736x/eb/88/da/eb88da4d46ec50f7491e24fffcab0068.jpg",
+  //     },
+  //     // Add your car posters...
+  //   ],
+  // },
 ];
